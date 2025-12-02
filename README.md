@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @Cr4N31
-- 👀 I’m interested in software and web development
-- 🌱 I’m currently learning javascrip and MySQL
-- 💞️ I’m looking to collaborate on any project available, in order to boost my experience
-- 📫 How to reach me: cephascrane42@gmail.com, send me an email :)
-- 😄 Pronouns: ... he/his :)
-- ⚡ Fun fact: ... idk lol
+# Hi, I'm Bitrus Yacham Duniya (Cr4N31)
+
+I'm a full-stack developer who enjoys building fast, usable, and well-structured web applications.  
+Currently improving my JavaScript, backend fundamentals, and MySQL while working on real projects and learning in public.
+
+I’m always open to collaborating on practical or open-source projects that help me grow and contribute.
+
+---
+
+## 🛠️ Tech Stack
+**Languages:**  
+JavaScript, TypeScript (learning), HTML5, CSS3
+
+**Frontend:**  
+React.js, Next.js, Tailwind CSS
+
+**Backend:**  
+Node.js, Express.js, MySQL (learning), MongoDB (learning)
+
+**Tools & Workflow:**  
+Git & GitHub, APIs, Vercel, Netlify, Linux basics, VS Code
+
+---
+
+## 📫 Contact
+Email: **cran3.js.dev@gmail.com**
+
+---
+
+## ⚡ Fun Fact
+I learn best by building real, working projects — even the small ones teach me something useful.
+
 
 <!---
 Cr4N31/Cr4N31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
