@@ -9,13 +9,13 @@ I’m always open to collaborating on practical or open-source projects that hel
 
 ## 🛠️ Tech Stack
 **Languages:**  
-JavaScript, TypeScript (learning), HTML5, CSS3
+JavaScript, HTML5, CSS3
 
 **Frontend:**  
 React.js, Next.js, Tailwind CSS
 
 **Backend:**  
-Node.js, Express.js, MySQL (learning), MongoDB (learning)
+Node.js, Express.js(learning), MySQL (learning), MongoDB (learning)
 
 **Tools & Workflow:**  
 Git & GitHub, APIs, Vercel, Netlify, Linux basics, VS Code
