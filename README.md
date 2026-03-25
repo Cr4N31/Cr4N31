@@ -12,10 +12,10 @@ I’m always open to collaborating on practical or open-source projects that hel
 JavaScript, HTML5, CSS3
 
 **Frontend:**  
-React.js, Next.js(learning), Tailwind CSS, JavaScript, HTML5, CSS3
+React.js, Next.js, Tailwind CSS, JavaScript, HTML5, CSS3
 
 **Backend:**  
-Node.js, Express.js(learning), MySQL (learning), MongoDB (learning)
+Node.js, Express.js, MySQL, MongoDB
 
 **Tools & Workflow:**  
 Git & GitHub, APIs, Vercel, Netlify, Linux basics, VS Code
