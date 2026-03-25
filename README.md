@@ -7,7 +7,7 @@ I’m always open to collaborating on practical or open-source projects that hel
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 **Languages:**  
 JavaScript, HTML5, CSS3
 
@@ -22,13 +22,13 @@ Git & GitHub, APIs, Vercel, Netlify, Linux basics, VS Code
 
 ---
 
-## 📫 Contact
+##  Contact
 Email: **cran3.js.dev@gmail.com**
 
 ---
 
-## ⚡ Fun Fact
-I learn best by building real, working projects — even the small ones teach me something useful.
+## Fun Fact
+I don't think i have anything fun fact lol
 
 
 <!---
