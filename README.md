@@ -1,7 +1,7 @@
 # Hi, I'm Bitrus Yacham Duniya (Cr4N31)
 
 I'm a full-stack developer who enjoys building fast, usable, and well-structured web applications.  
-Currently improving my JavaScript, backend fundamentals, and MySQL while working on real projects and learning in public.
+Currently improving my JavaScript, backend fundamentals, and MySQL while working on real projects and learning in public. I'm also good at DSA xd
 
 I’m always open to collaborating on practical or open-source projects that help me grow and contribute.
 
@@ -9,13 +9,13 @@ I’m always open to collaborating on practical or open-source projects that hel
 
 ##  Tech Stack
 **Languages:**  
-JavaScript, HTML5, CSS3
+JavaScript, HTML5, CSS3, TypeScript
 
 **Frontend:**  
 React.js, Next.js, Tailwind CSS, JavaScript, HTML5, CSS3
 
 **Backend:**  
-Node.js, Express.js, MySQL, MongoDB
+Node.js, Express.js, MySQL, PostgreSQL
 
 **Tools & Workflow:**  
 Git & GitHub, APIs, Vercel, Netlify, Linux basics, VS Code
